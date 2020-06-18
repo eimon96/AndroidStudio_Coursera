@@ -1,0 +1,38 @@
+b)
+	ActivityOne: onCreate(), onStart(), onResume(), onPause(), onStop()
+	ActivityTwo: onCreate(), onStart(), onResume()
+
+c)
+	ActivityOne: onRestart(), onStart(), onResume()
+	ActivityTwo: onPause(), onStop(), onDestroy()
+
+d)
+	ActivityOne: onPause(), onStop()
+	ActivityTwo: onCreate(), onStart(), onResume(), onPause(), onStop()
+
+e)
+	ActivityOne: None
+	ActivityTwo: onRestart(), onStart(), onResume()
+
+
+-------------------------------------------------------------------------------------
+DONE
+
+b)
+	ActivityOne: onCreate(), onStart(), onResume(), onPause()
+	ActivityTwo: onCreate(), onStart(), onResume()
+	ActivityOne: onStop()
+c)
+	ActivityTwo: onPause()
+	ActivityOne: onRestart(), onStart(), onResume()
+	ActivityTwo: onStop(), onDestroy()
+
+d)
+	ActivityOne: onPause()
+	ActivityTwo: onCreate(), onStart(), onResume()
+	ActivityOne: onStop()
+	ActivityTwo: onPause(), onStop()
+e)
+	ActivityOne: None
+	ActivityTwo: onRestart(), onStart(), onResume()
+
