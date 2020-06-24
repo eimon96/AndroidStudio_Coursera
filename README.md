@@ -1,9 +1,17 @@
 # Android Studio - coursera.org
-exercises, solutions by me
+Exercises, solutions by me.
 
-original files:  https://github.com/aporter/coursera-android-labs
+Original Files:  
 
-course: https://www.coursera.org/learn/android-programming#syllabus
+https://github.com/aporter/coursera-android-labs
+
+Course: 
+
+
+Programming Mobile Applications for Android Handheld Systems: Part 1
+
+
+https://www.coursera.org/learn/android-programming#syllabus
 
 # Running on my Samsung Galaxy Grand Prime 
 Model: SM-G531F
