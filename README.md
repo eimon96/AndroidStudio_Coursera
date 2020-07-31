@@ -27,3 +27,10 @@ Android version: 5.1.1
 Model: SM-J600FN
 
 Android version: 10
+
+
+# ModernUI App
+
+![ ](https://i.imgur.com/JqptdSq.png)
+
+![ ](https://i.imgur.com/NLiPxGp.png)
